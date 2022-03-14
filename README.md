@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Robert@KC8PSW
+- 👋 Hi, I’m Robert
 - 👀 I’m interested in web design . Also have a woodworking business.
 - 🌱 I’m currently learning VS Code, PHP, HTML and Java Script...
 - 💞️ I’m looking to collaborate on some web site features for our Amateur Radio club.
